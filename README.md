@@ -53,3 +53,12 @@ Use `data/golden_dataset.json` as starter cases. These are illustrative syntheti
 ## License
 
 MIT (add a LICENSE file before publishing if you want to distribute under MIT).
+
+## Portfolio website
+
+[Project overview on GitHub Pages](https://gireeshvuyyuru501-design.github.io/production-rag-quality-platform/) (static landing page; run API and Streamlit locally).
+
+[MIT License](LICENSE) | [Screenshots](screenshots/) | [Demo videos](demo/)
+
+**Scope:** MVP: no live LLM, semantic entailment, or production deployment.
+
