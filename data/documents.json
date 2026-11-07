@@ -1,0 +1,7 @@
+[
+  {"id":"doc-001","title":"Password Reset Policy","text":"Employees can reset their password through the company identity portal. Multifactor authentication is required to complete the reset."},
+  {"id":"doc-002","title":"Expense Reimbursement Policy","text":"Employees must submit expense reimbursement requests within 30 days of the purchase. Receipts are required for expenses over 25 dollars."},
+  {"id":"doc-003","title":"Remote Work Policy","text":"Employees working remotely must use the corporate VPN when accessing internal systems. Devices must have disk encryption enabled."},
+  {"id":"doc-004","title":"Data Handling Policy","text":"Customer personal information must not be included in public AI prompts. Sensitive data must be masked before external model processing."},
+  {"id":"doc-005","title":"Support Escalation","text":"Urgent production incidents should be reported to the on-call support engineer. High severity incidents require an incident ticket and status updates."}
+]

@@ -1,0 +1,7 @@
+[
+  {"question":"How can employees reset a password?","relevant_doc_id":"doc-001"},
+  {"question":"When should I submit expense reimbursement receipts?","relevant_doc_id":"doc-002"},
+  {"question":"Do remote employees need a VPN?","relevant_doc_id":"doc-003"},
+  {"question":"Can customer personal information go into public AI prompts?","relevant_doc_id":"doc-004"},
+  {"question":"Who handles urgent production incidents?","relevant_doc_id":"doc-005"}
+]
